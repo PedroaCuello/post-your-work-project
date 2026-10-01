@@ -25,4 +25,4 @@ This project was completed as part of the Udacity Git course.
 
 ## Date created
 
-Include the date you created this project and README file.
+October 2026
