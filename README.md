@@ -7,14 +7,13 @@ This project analyzes bikeshare data from different cities.
 
 The program allows users to explore information about bike trips, including travel times, popular stations, and user statistics.
 
-## Information about how to use your project
+## How to Use
 
-This could include:
-
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+1. Make sure Python is installed on your computer.
+2. Place the bikeshare data file in the project folder.
+3. Run the `bikeshare.py` script from the terminal.
+4. Follow the prompts to select a city, month, and day.
+5. Review the statistics displayed by the program.
 
 ## Contribution guidelines
 
