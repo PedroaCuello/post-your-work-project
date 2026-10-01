@@ -17,7 +17,7 @@ The program allows users to explore information about bike trips, including trav
 
 ## Contribution guidelines
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+Contributions are welcome. To contribute to this project, create a new branch, make your changes, commit them with a descriptive message, and submit your changes for review.
 
 ## Credits
 
