@@ -1,9 +1,11 @@
 >**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
 
 
-# Project Title
+# Bikeshare Project
 
-Describe what your project is about and what it does
+This project analyzes bikeshare data from different cities.
+
+The program allows users to explore information about bike trips, including travel times, popular stations, and user statistics.
 
 ## Information about how to use your project
 
